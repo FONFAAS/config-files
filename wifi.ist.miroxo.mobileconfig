@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>AutoJoin</key>
+			<true/>
+			<key>EAPClientConfiguration</key>
+			<dict>
+				<key>AcceptEAPTypes</key>
+				<array>
+					<integer>21</integer>
+				</array>
+				<key>EAPFASTProvisionPAC</key>
+				<false/>
+				<key>EAPFASTProvisionPACAnonymously</key>
+				<false/>
+				<key>EAPFASTUsePAC</key>
+				<false/>
+				<key>PayloadCertificateAnchorUUID</key>
+				<array>
+					<string>5F4862B3-6BAB-494A-9587-5A18CE291DEC</string>
+				</array>
+				<key>TTLSInnerAuthentication</key>
+				<string>MSCHAPv2</string>
+			</dict>
+			<key>EncryptionType</key>
+			<string>WPA</string>
+			<key>HIDDEN_NETWORK</key>
+			<false/>
+			<key>PayloadDescription</key>
+			<string>Configures wireless connectivity settings.</string>
+			<key>PayloadDisplayName</key>
+			<string>Wi-Fi (eduroam)</string>
+			<key>PayloadIdentifier</key>
+			<string>pt.utl.ist.wifi.wifi</string>
+			<key>PayloadOrganization</key>
+			<string>Instituto Superior Tecnico</string>
+			<key>PayloadType</key>
+			<string>com.apple.wifi.managed</string>
+			<key>PayloadUUID</key>
+			<string>95DDBB8E-92B7-4E5E-8688-95C5046EDDBD</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>ProxyType</key>
+			<string>None</string>
+			<key>SSID_STR</key>
+			<string>eduroam</string>
+		</dict>
+		<dict>
+			<key>PayloadCertificateFileName</key>
+			<string>cacert.crt</string>
+			<key>PayloadContent</key>
+			<data>
+			LS0tLS1CRUdJTiBDRVJUSUZJQ0FURS0tLS0tCk1JSUdEekNDQS9l
+			Z0F3SUJBZ0lJSURpazVpWlNGRDB3RFFZSktvWklodmNOQVFFRkJR
+			QXdnWlF4Q3pBSkJnTlYKQkFZVEFsQlVNU1F3SWdZRFZRUUtEQnRK
+			Ym5OMGFYUjFkRzhnVTNWd1pYSnBiM0lnVk1PcFkyNXBZMjh4TURB
+			dQpCZ05WQkFzTUowUnBjbVZqdzZmRG8yOGdaR1VnVTJWeWRtbkRw
+			Mjl6SUdSbElFbHVabTl5YmNPaGRHbGpZVEV0Ck1Dc0dBMVVFQXd3
+			a1NWTlVJRUYxZEc5eWFXUmhaR1VnUTJWeWRHbG1hV05oWkc5eVlT
+			QmtaU0JTWVdsNk1CNFgKRFRFeE1EVXhNVEUxTXpneU5sb1hEVE14
+			TURVd05qRTFNemd5Tmxvd2daUXhDekFKQmdOVkJBWVRBbEJVTVNR
+			dwpJZ1lEVlFRS0RCdEpibk4wYVhSMWRHOGdVM1Z3WlhKcGIzSWdW
+			TU9wWTI1cFkyOHhNREF1QmdOVkJBc01KMFJwCmNtVmp3NmZEbzI4
+			Z1pHVWdVMlZ5ZG1uRHAyOXpJR1JsSUVsdVptOXliY09oZEdsallU
+			RXRNQ3NHQTFVRUF3d2sKU1ZOVUlFRjFkRzl5YVdSaFpHVWdRMlZ5
+			ZEdsbWFXTmhaRzl5WVNCa1pTQlNZV2w2TUlJQ0lqQU5CZ2txaGtp
+			Rwo5dzBCQVFFRkFBT0NBZzhBTUlJQ0NnS0NBZ0VBaWhMak5nTmtq
+			RUY1WUVqcmxiS2JDaW04b1RzSmQwTHpWMEhLCnlTUlhPZUlQWm1Z
+			OXBCalJvYmtYNjFnNVc5clJ1eFdIQjhzOTRDVmFSbDRmNEwrYmN2
+			TDZNYTM2R2lpZlNLTTMKV3JCSEJuTVRJalFMSmgwTHVyY1F2L3Fu
+			NjR5dWxPTnpvYXlScGFpNUh0Q2hnbzZGQWN4SCs5N1ZYS2M0M1BE
+			RgpPb3Z6d3ZraUpTOCtvRnVhK3hkblhlYXR1VVVJc0ZVMHJtOTU0
+			d0cxaVFmVjZpTmFsR3owWEJvbURrcEpyZUlGCnhUdnMva3Iza0Vz
+			dHFIei90Z2VtRlpKVE1VYm9IdEhDT2xBNEVrK2t2cUZVRTBTSERo
+			NlVCZk92VUkrb3NFNmEKWmtKQllNQlYrK2JubXpZWXR0emJMTWQx
+			OTBQcERpaHlIQUloT2FBd2M3aVRWZUY5MVN2UXFZYzBySG8zQkEw
+			UQpFVm43Q2hxK0R3aGI0SVF4dEl3cTFUWHpoeHRwaVhrc3VJSFBa
+			eGJpTlRJMzdSNGRFZDlsRjJMdVUvQ3dTMVRSCmJKYWFla0U0UHlN
+			NHFuWWhhZ1lBRmNZbFl4RDQ5ZTFDOGppM1ZRbElGdVcvc29ua0Y2
+			cStFRjR2bDl6bWFGb1cKYmtBbkE3akdUcVkrdDJZTjF0RkJwTTU0
+			UEwrOGNiMm15Z20yaS9OTWQreVVhdUJFWTMwRmU3QlRvZDV2ajVD
+			MwpTYnJiZWZxV01WSkN6S3hnSVprS1RhRFZURUg4Snh5ZkFEQ09O
+			V1VHWFVCOXI2bWk1TTBKQzRjdFQ3aVFFOUEyCmFZYjFnTTQvN2Jv
+			ZTZ3a0hzSHVwN0VicUtpaEhPczhuU0l2Nml4ZytKZDBMZnl4ZzVS
+			UUZOTnN3WGlmZ2RST0MKSStnbVNoTUNBd0VBQWFOak1HRXdIUVlE
+			VlIwT0JCWUVGRVNBdjhDbjIzd0xQcS9ibG4xQkYrL3VNWXJnTUE4
+			RwpBMVVkRXdFQi93UUZNQU1CQWY4d0h3WURWUjBqQkJnd0ZvQVVS
+			SUMvd0tmYmZBcytyOXVXZlVFWDcrNHhpdUF3CkRnWURWUjBQQVFI
+			L0JBUURBZ0dHTUEwR0NTcUdTSWIzRFFFQkJRVUFBNElDQVFBcW1O
+			bi9zYTJqUFhjY3dsYmQKRWlyNnNBU3o5SUhQV0hydTRFR200akc2
+			RW9qcEVobUVBRHJmeEJKY3NQOXdIVEsra1RjSGtublYzZDRDT1NL
+			RgpKbEg3bjJsSkNEdG5LQkFFdE0zcnNuemhJVmh1c3lSNi9wcXA0
+			RDl6YmlsZWxlaktXWXlqN3UzTWxrUGJET2ltCnpFQU4xVDlYUnIx
+			UW5LaUhlV1dtN014a3lQMFNjbEMvQitjeHh5VmN6ZExHRjh1NDhs
+			MjRhdDB6UlVMaHlYUXQKUC92bE1Ib2JzMTViallJSVFKaU1BWXJs
+			K21ycFZTcHdFNzhIakRpdzVkRysvQVBidzZXQTFveTNoVGZ2L2RS
+			MgpsQmhNdjRiU0J6eTROakxYYWZCMkw2bVZNdzFwQ1Yza1c5dm03
+			VHRZQjZNN1ppd3dqWmVsUnVRbDhjMVg3YUROClNpNzYveGpKVXd4
+			YWthYzNSOWhYc0wrV3JCRFJ5OEgvSnY3bGdYMWRybUI2Sk55M2xv
+			WjN5MEo0TklQZDdxeloKZy9yamcvY3V4cDVqT2pmYmdUUi9OQzM0
+			VmRJSTBNWXdyODJsZ01saDJONnVpRUo0UGNtcXRvWlJWTzMxWkhZ
+			RAp2WEJCZWNKaTA5ODBjaE91dVZKVXhDTDdlaU5zMmNDWng1WG9V
+			T0p5dHpRdU85eXhsQjQ0dTZ3bGt5emdsVnBhCjQ5WXVmRm5ScndD
+			YmNnU09OZDZrR0pnZjFwWXBQS0ExZmRsQWtabnhoZE0rcEJwYzR4
+			akJOdTlJTlR4K3RZUDEKN1JDZ1R0aVZDY2ZGckxkRStwVWV3WERW
+			YUY4dVdFdlNtTVBnOEpUMlREZEtYOHA0aEZXM2ZsUnBhcHRLeDJM
+			YwpCTXNvMWdWZEZvblBObE5uOXZVV1hLRnBCZz09Ci0tLS0tRU5E
+			IENFUlRJRklDQVRFLS0tLS0K
+			</data>
+			<key>PayloadDescription</key>
+			<string>Provides device authentication (certificate or identity).</string>
+			<key>PayloadDisplayName</key>
+			<string>IST Autoridade Certificadora de Raiz</string>
+			<key>PayloadIdentifier</key>
+			<string>pt.utl.ist.wifi.credential</string>
+			<key>PayloadOrganization</key>
+			<string>Instituto Superior Tecnico</string>
+			<key>PayloadType</key>
+			<string>com.apple.security.root</string>
+			<key>PayloadUUID</key>
+			<string>5F4862B3-6BAB-494A-9587-5A18CE291DEC</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>IST WiFi Secure by Miroxo</string>
+	<key>PayloadDisplayName</key>
+	<string>IST WiFi Secure</string>
+	<key>PayloadIdentifier</key>
+	<string>pt.utl.ist.wifi</string>
+	<key>PayloadOrganization</key>
+	<string>Instituto Superior Tecnico</string>
+	<key>PayloadRemovalDisallowed</key>
+	<false/>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>9FF69BC3-168C-42B9-B344-F3F0E91CDBEC</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
